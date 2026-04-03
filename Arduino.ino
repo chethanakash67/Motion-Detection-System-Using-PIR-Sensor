@@ -1,3 +1,8 @@
+/*
+  SPDX-License-Identifier: MIT
+  Copyright (c) 2026 chethanakash67
+*/
+
 //the time we give the sensor to calibrate (10-60 secs according to the datasheet)
 int calibrationTime = 30;        
 
